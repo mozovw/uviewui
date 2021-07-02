@@ -1,0 +1,10 @@
+<template>
+    <view>
+        aa
+    </view>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
